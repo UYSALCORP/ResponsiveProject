@@ -1,2 +1,2 @@
 ## Expected Outcome
-![Project  Snapshot](./images/expectedOutcome.png)
+![Project  Snapshot](./expectedOutcome.png)
